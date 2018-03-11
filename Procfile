@@ -1,1 +1,1 @@
-web: python hello_obp.py runserver 0.0.0.0:5000
+web: python3 hello_obp.py runserver 0.0.0.0:5000
